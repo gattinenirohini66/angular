@@ -42,27 +42,6 @@
       "release_date": "2018-12-27"
     },
     {
-      "vote_count": 22,
-      "id": 454294,
-      "video": false,
-      "vote_average": 5.7,
-      "title": "The Kid Who Would Be King",
-      "popularity": 78.298,
-      "poster_path": "https://image.tmdb.org/t/p/w500/kBuvLX6zynQP0sjyqbXV4jNaZ4E.jpg",
-      "original_language": "en",
-      "original_title": "The Kid Who Would Be King",
-      "genre_ids": [
-        28,
-        12,
-        14,
-        10751
-      ],
-      "backdrop_path": "/jmbgxBd86MshzQQvv5laKvOKoMm.jpg",
-      "adult": false,
-      "overview": "Alex thinks he’s just another nobody, until he stumbles upon the mythical Sword in the Stone, Excalibur. Now, he must unite his friends and enemies into a band of knights and, together with the legendary wizard Merlin, take on the wicked enchantress Morgana. With the future at stake, Alex must become the great leader he never dreamed he could be.",
-      "release_date": "2019-01-16"
-    },
-    {
       "vote_count": 1,
       "id": 438650,
       "video": false,
@@ -83,25 +62,6 @@
       "release_date": "2019-02-07"
     },
     {
-      "vote_count": 82,
-      "id": 330115,
-      "video": false,
-      "vote_average": 5.9,
-      "title": "Ride",
-      "popularity": 6.191,
-      "poster_path": "https://image.tmdb.org/t/p/w500/3E7VFKi4rwRgxSCGo82hmZtQveJ.jpg",
-      "original_language": "en",
-      "original_title": "Ride",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "backdrop_path": "/x03Ygs6MoOFryhpEa9JKgsYcEjq.jpg",
-      "adult": false,
-      "overview": "A mother travels cross-country to California to be with her son after he decides to drop out of school and become a surfer.",
-      "release_date": "2014-11-08"
-    },
-    {
       "vote_count": 25,
       "id": 465078,
       "video": false,
@@ -118,6 +78,26 @@
       "adult": false,
       "overview": "The story of our creator.",
       "release_date": "2017-07-06"
+    },
+    {
+      "vote_count": 2552,
+      "id": 138697,
+      "video": false,
+      "vote_average": 5.9,
+      "title": "Don Jon",
+      "popularity": 12.738,
+      "poster_path": "https://image.tmdb.org/t/p/w500/xD93OhEhMPN0v5VXt21D6rx7HGg.jpg",
+      "original_language": "en",
+      "original_title": "Don Jon",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "backdrop_path": "/4QBI1pdjr2hH1fgC8NqwZZnWNso.jpg",
+      "adult": false,
+      "overview": "A New Jersey guy dedicated to his family, friends, and church, develops unrealistic expectations from watching porn and works to find happiness and intimacy with his potential true love.",
+      "release_date": "2013-07-26"
     }
   ],
   "posts": [

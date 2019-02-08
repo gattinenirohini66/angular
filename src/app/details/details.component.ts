@@ -18,6 +18,8 @@ export class DetailsComponent implements OnInit {
    this.movie.getDetails(id).subscribe((data: any) => {
      console.log(data)
      this.md = data
+     data.poster_path ="https://image.tmdb.org/t/p/w500" + data.poster_path
+     return data 
 })
 }
 addToFavs(m){
