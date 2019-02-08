@@ -1,0 +1,14 @@
+a{
+    color:white;
+    align-content: space-around;
+}
+small{
+    color: white;
+}
+ h1{
+    color: white;
+    justify-content: space-around;
+}
+.container-fluid{
+    margin-top:1rem;
+}

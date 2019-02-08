@@ -1,0 +1,18 @@
+<div class="container">
+  <form class="form-inline" #movieform="ngForm" (ngSubmit)="getMovie(search.value)">
+    <input type="text" class="form-control text-dark mr-4" id="search" type="search" placeholder="Search Here" #search>
+    <button class="btn btn-outline-dark"><i class="fas fa-search" type="submit"></i></button>
+  </form>
+</div>
+<h2>Search Results</h2>
+    <div class="card_container container-fluid">
+        <div *ngFor = "let movie of arrayOfMovies" class="card" style="width: 18rem;">
+      <img src= {{movie.poster_path}} class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">{{movie.title}}</h5>
+        <button  (click)="addToFavs(movie)" class="btn btn-dark mr-5 heart" > <i class="fas fa-heart"></i></button>
+        <button (click)="gotDetails(movie.id)"class="btn btn-dark"><i class="fas fa-info-circle"></i></button>
+      </div>
+      </div>
+  </div>
+ 
